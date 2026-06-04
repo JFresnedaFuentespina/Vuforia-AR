@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="11.4.4">
+<ModelTarget name="playmobilsinbrazos" targetId="c13a79d1a4954fc2a8ce33e39cbf5f29" version="14.0" toolVersion="11.4.4" bbox="-0.0147289 -9.53674e-09 -0.0140114 0.0147288 0.10723 0.0140114" upVector="0 1 0" previewImage="c13a79d1a4954fc2a8ce33e39cbf5f29_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="playmobilsinbrazoss_assembly" assemblyId="b2b9b6548b444faab2e5a11cd59f36b7">
+<Part name="playmobilsinbrazos" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="-3.72529e-08 0.045309 0.213023" rotation="AD: 0.99981 0.0780032 -0.269196 211.179" image="playmobilsinbrazos_GuideView_0000.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0001" translation="3.72529e-08 0.0471971 0.209795" rotation="AD: 0.86813 -0.550874 2.18329 190.373" image="playmobilsinbrazos_GuideView_0001.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="DjiTello2" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="DjiTello2s_assembly" assemblyId="531ab2d829354cd7aa08d7b29735b05c">
+<Part name="DjiTello2" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="-0.000754371 -0.000286177 0.173171" rotation="AD: -0.849105 -0.602719 1.95398 166.507" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0001" translation="0.000676863 -0.00182042 0.175671" rotation="AD: 0.998784 -0.120151 0.467129 206.082" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

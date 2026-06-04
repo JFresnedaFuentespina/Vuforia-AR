@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="-7.6745 -0.9713 -3.8732 4.2077 1.9026 5.4391" area="17" targetId="affd051a953447f2b7e4cfbd3f42b1f8" name="AulaAteca" pathAuthoring="affd051a953447f2b7e4cfbd3f42b1f8_authoring.glb" pathOcclusion="affd051a953447f2b7e4cfbd3f42b1f8_occlusion.3dt" pathNavMesh="affd051a953447f2b7e4cfbd3f42b1f8_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

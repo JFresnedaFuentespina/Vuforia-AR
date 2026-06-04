@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="-2.7554 -1.6452 0.3745 -0.4935 -0.3783 2.6807" area="5" targetId="8cb5593b812b400eb5400d880b5127d8" name="mesa-jesus_authoring_target" pathAuthoring="8cb5593b812b400eb5400d880b5127d8_authoring.glb" pathOcclusion="8cb5593b812b400eb5400d880b5127d8_occlusion.3dt" pathNavMesh="8cb5593b812b400eb5400d880b5127d8_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="playmobilsinbrazos" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="playmobilsinbrazoss_assembly" assemblyId="b2b9b6548b444faab2e5a11cd59f36b7">
+<Part name="playmobilsinbrazos" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="-3.72529e-08 0.045309 0.213023" rotation="AD: 0.99981 0.0780032 -0.269196 211.179" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0001" translation="3.72529e-08 0.0471971 0.209795" rotation="AD: 0.86813 -0.550874 2.18329 190.373" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="-3.1035 -1.3175 -5.6958 20.5932 1.8723 5.9592" area="78" targetId="3a9d21f6e7bf43949612bd930de2daaf" name="pasillo2_authoring_target" pathAuthoring="3a9d21f6e7bf43949612bd930de2daaf_authoring.glb" pathOcclusion="3a9d21f6e7bf43949612bd930de2daaf_occlusion.3dt" pathNavMesh="3a9d21f6e7bf43949612bd930de2daaf_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>
